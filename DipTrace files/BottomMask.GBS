@@ -1,0 +1,17 @@
+G04 DipTrace 2.4.0.2*
+%INBottomMask.GBS*%
+%MOIN*%
+%ADD15C,0.074*%
+%FSLAX44Y44*%
+G04*
+G70*
+G90*
+G75*
+G01*
+%LNBotMask*%
+%LPD*%
+D15*
+X4440Y4440D3*
+X5440D3*
+X6440D3*
+M02*
